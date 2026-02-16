@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aryancompiles
 - 👀 I’m interested in programming and learning new tech skills.
 - 🌱 I’m currently learning C/Python.
-- 💞️ I’m looking to collaborate on website development, app development and AI/ML.
+- 💞️ I’m looking to collaborate on Embedded System Development, System Administration .
 - 📫 How to reach me , email: sinhaaryan399@gmail.com.
 - 😄 Pronouns: He/Him🤘
 - ⚡ Fun fact: 
